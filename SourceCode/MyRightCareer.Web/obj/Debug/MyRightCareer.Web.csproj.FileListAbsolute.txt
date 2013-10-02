@@ -1,0 +1,5 @@
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer.Web\bin\MyRightCareer.Web.dll
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer.Web\bin\MyRightCareer.Web.pdb
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer.Web\obj\Debug\MyRightCareer.Web.csprojResolveAssemblyReference.cache
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer.Web\obj\Debug\MyRightCareer.Web.dll
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer.Web\obj\Debug\MyRightCareer.Web.pdb

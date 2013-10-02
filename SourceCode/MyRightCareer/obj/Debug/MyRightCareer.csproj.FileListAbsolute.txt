@@ -1,0 +1,14 @@
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\Bin\Debug\MyRightCareer.dll
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\Bin\Debug\MyRightCareer.pdb
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\Bin\Debug\AppManifest.xaml
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\Bin\Debug\MyRightCareer.xap
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\Bin\Debug\MyRightCareerTestPage.html
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\obj\Debug\MyRightCareer.csprojResolveAssemblyReference.cache
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\obj\Debug\App.g.cs
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\obj\Debug\HelpPanel.g.cs
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\obj\Debug\MainPage.g.cs
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\obj\Debug\TopBanner.g.cs
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\obj\Debug\MyRightCareer.g.resources
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\obj\Debug\MyRightCareer.dll
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\obj\Debug\MyRightCareer.pdb
+c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\obj\Debug\XapCacheFile.xml
