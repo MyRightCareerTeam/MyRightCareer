@@ -12,5 +12,26 @@
             <RowDefinition Height="33*"/>
             <RowDefinition Height="33*"/>
         </Grid.RowDefinitions>
+
+        <Border HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <Grid>
+                <Rectangle Fill="LightGray" Stroke="Black" Margin="0,11,0,0" RadiusY="5" RadiusX="5"/>
+                <TextBox TextWrapping="Wrap" Text="Examples" Background="LightGray" VerticalAlignment="Top" Margin="4,0,230,0" BorderThickness="0" d:LayoutOverrides="Width"/>
+            </Grid>
+        </Border>
+
+        <Border HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="1">
+            <Grid>
+                <Rectangle Fill="LightGray" Stroke="Black" Margin="0,11,0,0" RadiusY="5" RadiusX="5"/>
+                <TextBox TextWrapping="Wrap" Text="Videos" Background="LightGray" VerticalAlignment="Top" Margin="4,0,250,0" BorderThickness="0" d:LayoutOverrides="Width"/>
+            </Grid>
+        </Border>
+
+        <Border HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="2">
+            <Grid>
+                <Rectangle Fill="LightGray" Stroke="Black" Margin="0,11,0,0" RadiusY="5" RadiusX="5"/>
+                <TextBox TextWrapping="Wrap" Text="Advisor" Background="LightGray" VerticalAlignment="Top" Margin="4,0,240,0" BorderThickness="0" d:LayoutOverrides="Width"/>
+            </Grid>
+        </Border>
     </Grid>
 </UserControl>

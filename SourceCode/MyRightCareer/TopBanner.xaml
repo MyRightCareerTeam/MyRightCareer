@@ -5,27 +5,20 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     d:DesignHeight="250" d:DesignWidth="1000">
+    
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Styles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
 
-    <Grid Name="LayoutRoot" Background="Blue">
+    <Grid Name="LayoutRoot" Background="DarkBlue">
         <Grid.RowDefinitions>
             <RowDefinition Height="50*"/>
             <RowDefinition Height="50*"/>
         </Grid.RowDefinitions>
         
-        <Grid Name="MenuBar" Grid.Row="1">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
-            </Grid.ColumnDefinitions>
-
-            <Button Content="End" Grid.Column="0"/>
-            <Button Content="Self" Grid.Column="1"/>
-            <Button Content="Past" Grid.Column="2"/>
-            <Button Content="Strength" Grid.Column="3"/>
-            <Button Content="Meaning" Grid.Column="4"/>
-        </Grid>
     </Grid>
 </UserControl>

@@ -12,3 +12,17 @@ c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCar
 c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\obj\Debug\MyRightCareer.dll
 c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\obj\Debug\MyRightCareer.pdb
 c:\users\sheltotj\documents\visual studio 2012\Projects\MyRightCareer\MyRightCareer\obj\Debug\XapCacheFile.xml
+C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareer.dll
+C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareer.pdb
+C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\AppManifest.xaml
+C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareer.xap
+C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareerTestPage.html
+C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.csprojResolveAssemblyReference.cache
+C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\App.g.cs
+C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\HelpPanel.g.cs
+C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MainPage.g.cs
+C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\TopBanner.g.cs
+C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.g.resources
+C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.dll
+C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.pdb
+C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\XapCacheFile.xml
