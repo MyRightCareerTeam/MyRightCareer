@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Collections.Specialized;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Windows;
@@ -19,14 +20,14 @@ namespace MyRightCareer
         List<Dictionary<string, string>> menuButtons;
         Dictionary<string, Grid> subMenus;
         Grid mainMenu;
-        const string title = "title";
+        public const string title = "title";
         const double animationTime = 0.3;
 
         public TopBanner()
         {
             InitializeComponent();
-
-            this.SetDictionary();
+            this.menuButtons = ContentLoader.GetMenuButtons();
+            //this.SetDictionary();
             this.AddButtons();
         }
 
