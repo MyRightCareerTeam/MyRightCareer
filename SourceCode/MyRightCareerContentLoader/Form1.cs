@@ -14,8 +14,9 @@ namespace MyRightCareerContentLoader
     {
         public Form1()
         {
-            //InitializeComponent();
-            Console.WriteLine("Here");
+            InitializeComponent();
+            Hide();
+            ContentLoader.GetMenuButtons();
         }
     }
 }
