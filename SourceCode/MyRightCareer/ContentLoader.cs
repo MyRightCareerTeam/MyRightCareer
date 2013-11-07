@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Shapes;
+using System.Xml;
 
 namespace MyRightCareer
 {
@@ -36,6 +37,15 @@ namespace MyRightCareer
             subDirectories.Sort();
 
             return menuButtons;
+        }
+
+        public static void ParseXMLMenu(String docPath)
+        {
+            XmlDocument doc = new XmlDocument();
+            doc.Load(docPath);
+            XmlNodeReader reader = new XmlNodeReader(docPath);
+            
+
         }
     }
 }
