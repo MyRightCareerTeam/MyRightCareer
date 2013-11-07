@@ -17,13 +17,13 @@ namespace MyRightCareer
     public class ContentLoader
     {
         //private static string contentFolderLocation = Directory.GetCurrentDirectory();
-        private static string contentFolderLocation = "http://" + Application.Current.Host.Source.Host + ":" + Application.Current.Host.Source.Port + "/ClientBin/Content";
+        //private static string contentFolderLocation = "http://" + Application.Current.Host.Source.Host + ":" + Application.Current.Host.Source.Port + "/ClientBin/Content";
+        private static string contentFolderLocation = @"C:\Program Files";
 
         public static List<Dictionary<string, string>> GetMenuButtons()
         {
             List<Dictionary<string, string>> menuButtons = new List<Dictionary<string, string>>();
 
-            Console.WriteLine("HERE");
             DirectoryInfo contentDirectory = new DirectoryInfo(contentFolderLocation);
             List<string> subDirectories = new List<string>();
             

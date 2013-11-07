@@ -31,6 +31,8 @@
     <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
     <LinkedServerProject>
     </LinkedServerProject>
+    <InBrowserSettingsFile>Properties\InBrowserSettings.xml</InBrowserSettingsFile>
+    <RequireInBrowserElevation>false</RequireInBrowserElevation>
   </PropertyGroup>
   <!-- This property group is only here to support building this project using the 
        MSBuild 3.5 toolset. In order to work correctly with this older toolset, it needs 
@@ -126,6 +128,12 @@
     <Folder Include="Content\4-Strength\4-Strength 4\" />
     <Folder Include="Content\5-Meaning\1-Meaning 1\" />
     <Folder Include="Content\5-Meaning\2-Meaning 2\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\OutOfBrowserSettings.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\InBrowserSettings.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
