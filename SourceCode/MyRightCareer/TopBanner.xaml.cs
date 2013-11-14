@@ -26,8 +26,15 @@ namespace MyRightCareer
         public TopBanner()
         {
             InitializeComponent();
-            this.menuButtons = ContentLoader.GetMenuButtons();
+            //this.menuButtons = ContentLoader.GetMenuButtons();
             //this.SetDictionary();
+            //this.AddButtons();
+            //ContentLoader.GetXMLContent();
+        }
+
+        public void SetMenuButtons(List<Dictionary<string, string>> menuButtons)
+        {
+            this.menuButtons = menuButtons;
             this.AddButtons();
         }
 

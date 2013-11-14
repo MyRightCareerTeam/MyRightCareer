@@ -1,4 +1,6 @@
-﻿<xapCache source="C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareer.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="11/7/2013 2:25:32 PM">
-  <file source="C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.dll" archivePath="MyRightCareer.dll" lastWriteTime="11/7/2013 2:25:32 PM" />
-  <file source="C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11/7/2013 2:25:32 PM" />
+﻿<xapCache source="C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareer.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="11/13/2013 10:48:39 PM">
+  <file source="C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.dll" archivePath="MyRightCareer.dll" lastWriteTime="11/13/2013 10:48:39 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Xml.Linq.dll" archivePath="System.Xml.Linq.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Xml.XPath.dll" archivePath="System.Xml.XPath.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11/13/2013 8:12:40 PM" />
 </xapCache>

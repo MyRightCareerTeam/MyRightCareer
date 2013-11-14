@@ -8,3 +8,8 @@ C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\
 C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer.Web\obj\Debug\MyRightCareer.Web.csprojResolveAssemblyReference.cache
 C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer.Web\obj\Debug\MyRightCareer.Web.dll
 C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer.Web\obj\Debug\MyRightCareer.Web.pdb
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer.Web\bin\MyRightCareer.Web.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer.Web\bin\MyRightCareer.Web.pdb
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer.Web\obj\Debug\MyRightCareer.Web.csprojResolveAssemblyReference.cache
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer.Web\obj\Debug\MyRightCareer.Web.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer.Web\obj\Debug\MyRightCareer.Web.pdb

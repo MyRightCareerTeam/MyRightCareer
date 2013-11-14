@@ -58,6 +58,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ClientBin\content.xml" />
     <Content Include="ClientBin\MyRightCareer.xap" />
     <Content Include="MyRightCareerTestPage.aspx" />
     <Content Include="MyRightCareerTestPage.html" />
@@ -75,22 +76,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="ClientBin\Content\1-End\1-End 1\" />
-    <Folder Include="ClientBin\Content\1-End\2-End 2\" />
-    <Folder Include="ClientBin\Content\1-End\3-End 3\" />
-    <Folder Include="ClientBin\Content\2-Self\1-Self 1\" />
-    <Folder Include="ClientBin\Content\2-Self\2-Self 2\" />
-    <Folder Include="ClientBin\Content\2-Self\3-Self 3\" />
-    <Folder Include="ClientBin\Content\3-Past\1-Past 1\" />
-    <Folder Include="ClientBin\Content\3-Past\2-Past 2\" />
-    <Folder Include="ClientBin\Content\4-Strength\1-Strength 1\" />
-    <Folder Include="ClientBin\Content\4-Strength\2-Strength 2\" />
-    <Folder Include="ClientBin\Content\4-Strength\3-Strength 3\" />
-    <Folder Include="ClientBin\Content\4-Strength\4-Strength 4\" />
-    <Folder Include="ClientBin\Content\5-Meaning\1-Meaning 1\" />
-    <Folder Include="ClientBin\Content\5-Meaning\2-Meaning 2\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<content>
+  <exercise name="Prerequisites">
+    <step name="Overview">
+      Sample content
+      New line
+        Tab
+    </step>
+
+    <step name="Program Approach">
+
+    </step>
+
+    <step name="Program Content">
+
+    </step>
+  </exercise>
+  
+  <exercise name="Future">
+    <step name="Visualize Yourself at Age 30">
+
+    </step>
+
+    <step name="Work Backwards">
+
+    </step>
+
+    <step name="Structural Tension">
+
+    </step>
+  </exercise>
+
+  <exercise name="Self">
+    <step name="Strong Interest Inventory">
+
+    </step>
+
+    <step name="Strong and Myers-Briggs">
+
+    </step>
+
+    <step name="Add to Insights">
+
+    </step>
+  </exercise>
+
+  <exercise name="Past">
+    <step name="List All Accomplishments">
+
+    </step>
+
+    <step name="List Top Accomplishments">
+
+    </step>
+
+    <step name="Document Insights">
+
+    </step>
+  </exercise>
+</content>

@@ -16,9 +16,13 @@
             <ColumnDefinition Width="90*"/>
             <ColumnDefinition Width="10*"/>
         </Grid.ColumnDefinitions>
+
+        <local:HelpPanel x:Name="helpPanel" Grid.Row="1" Grid.Column="1"/>
+
+        <local:TopBanner x:Name="topBanner" Grid.ColumnSpan="2"/>
         
-        <local:TopBanner Grid.ColumnSpan="2"/>
-        
-        <local:HelpPanel Grid.Row="1" Grid.Column="1"/>
+        <Grid x:Name="contentGrid" Grid.Row="1">
+            
+        </Grid>
     </Grid>
 </UserControl>

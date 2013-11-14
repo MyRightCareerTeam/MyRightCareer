@@ -6,3 +6,11 @@ C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\
 C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareerContentLoader\obj\Debug\MyRightCareerContentLoader.csproj.GenerateResource.Cache
 C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareerContentLoader\obj\Debug\MyRightCareerContentLoader.exe
 C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareerContentLoader\obj\Debug\MyRightCareerContentLoader.pdb
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareerContentLoader\bin\Debug\MyRightCareerContentLoader.exe.config
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareerContentLoader\bin\Debug\MyRightCareerContentLoader.exe
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareerContentLoader\bin\Debug\MyRightCareerContentLoader.pdb
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareerContentLoader\obj\Debug\MyRightCareerContentLoader.csprojResolveAssemblyReference.cache
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareerContentLoader\obj\Debug\MyRightCareerContentLoader.Properties.Resources.resources
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareerContentLoader\obj\Debug\MyRightCareerContentLoader.csproj.GenerateResource.Cache
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareerContentLoader\obj\Debug\MyRightCareerContentLoader.exe
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareerContentLoader\obj\Debug\MyRightCareerContentLoader.pdb

@@ -12,7 +12,6 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 using System.Xml;
-using MyRightCareerContent;
 
 namespace MyRightCareer
 {
@@ -20,8 +19,8 @@ namespace MyRightCareer
     {
         public void getContent()
         {
-            ContentLoader loader = new ContentLoader();
-            loader.ParseXMLtoNode
+            //ContentLoader loader = new ContentLoader();
+            //loader.ParseXMLtoNode
         }
     }
 }

@@ -14,9 +14,25 @@ namespace MyRightCareer
 {
     public partial class MainPage : UserControl
     {
+        private ContentLoader loader;
+        private string[][] content;
+
         public MainPage()
         {
             InitializeComponent();
+
+            this.loader = new ContentLoader(this);
+            this.loader.GetContent();
+        }
+
+        public void SetMenuButtons(List<Dictionary<string, string>> menuButtons)
+        {
+            this.topBanner.SetMenuButtons(menuButtons);
+        }
+
+        public void SetPageContents(int exercise, int step, string content)
+        {
+            this.content[exercise][step] = content;
         }
     }
 }
