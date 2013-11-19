@@ -182,13 +182,11 @@ namespace MyRightCareer
 
         private void SubMenuButton_Click(object sender, RoutedEventArgs e)
         {
-            System.Diagnostics.Debug.WriteLine("click2");
             Button button = (Button)sender;
             int step = Grid.GetColumn(button);
             
             for (int exercise = 0; exercise < this.menuButtons.Count; exercise++)
             {
-                System.Diagnostics.Debug.WriteLine("Button: '" + this.currentExercise + "'  Data: '" + menuButtons[exercise][ContentLoader.Title] + "'");
                 if (menuButtons[exercise][ContentLoader.Title].Equals(this.currentExercise))
                 {
                     this.mainPage.LoadPageContents(exercise, step);

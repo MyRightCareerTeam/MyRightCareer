@@ -40,7 +40,6 @@ namespace MyRightCareer
         public void LoadPageContents(int exercise, int step)
         {
             this.contentBlock.Text = this.content[exercise, step];
-            System.Diagnostics.Debug.WriteLine("Content: " + this.content[exercise, step]);
         }
     }
 }

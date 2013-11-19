@@ -14,11 +14,12 @@
         </ResourceDictionary>
     </UserControl.Resources>
 
-    <Grid Name="LayoutRoot" Background="LightBlue">
+    <Grid Name="LayoutRoot">
         <Grid.RowDefinitions>
-            <RowDefinition Height="50*"/>
-            <RowDefinition Height="50*"/>
+            <RowDefinition Height="67*"/>
+            <RowDefinition Height="33*"/>
         </Grid.RowDefinitions>
         
+        <Image Source="images/myrightcareer_logo.png" Stretch="None" HorizontalAlignment="Left"/>
     </Grid>
 </UserControl>

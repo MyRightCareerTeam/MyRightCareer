@@ -3,7 +3,7 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     
     <Style x:Name="MenuBarButtonStyle" TargetType="Button">
-        <Setter Property="Background" Value="DarkBlue"/>
+        <Setter Property="Background" Value="RoyalBlue"/>
         <Setter Property="Foreground" Value="White"/>
         <Setter Property="Template">
             <Setter.Value>

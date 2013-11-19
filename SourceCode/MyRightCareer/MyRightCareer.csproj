@@ -116,27 +116,15 @@
   <ItemGroup>
     <None Include="Properties\AppManifest.xml" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Content\1-End\1-End 1\" />
-    <Folder Include="Content\1-End\2-End 2\" />
-    <Folder Include="Content\1-End\3-End 3\" />
-    <Folder Include="Content\2-Self\1-Self 1\" />
-    <Folder Include="Content\2-Self\2-Self 2\" />
-    <Folder Include="Content\2-Self\3-Self 3\" />
-    <Folder Include="Content\3-Past\1-Past 1\" />
-    <Folder Include="Content\3-Past\2-Past 2\" />
-    <Folder Include="Content\4-Strength\1-Strength 1\" />
-    <Folder Include="Content\4-Strength\2-Strength 2\" />
-    <Folder Include="Content\4-Strength\3-Strength 3\" />
-    <Folder Include="Content\4-Strength\4-Strength 4\" />
-    <Folder Include="Content\5-Meaning\1-Meaning 1\" />
-    <Folder Include="Content\5-Meaning\2-Meaning 2\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="Properties\OutOfBrowserSettings.xml" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\InBrowserSettings.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\myrightcareer_logo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
