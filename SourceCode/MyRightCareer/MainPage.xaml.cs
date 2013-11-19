@@ -15,12 +15,14 @@ namespace MyRightCareer
     public partial class MainPage : UserControl
     {
         private ContentLoader loader;
-        private string[][] content;
+        private string[,] content = new string[10,10];
 
         public MainPage()
         {
             InitializeComponent();
 
+            this.topBanner.SetMainPage(this);
+            
             this.loader = new ContentLoader(this);
             this.loader.GetContent();
         }
@@ -32,7 +34,13 @@ namespace MyRightCareer
 
         public void SetPageContents(int exercise, int step, string content)
         {
-            this.content[exercise][step] = content;
+            this.content[exercise, step] = content;
+        }
+
+        public void LoadPageContents(int exercise, int step)
+        {
+            this.contentBlock.Text = this.content[exercise, step];
+            System.Diagnostics.Debug.WriteLine("Content: " + this.content[exercise, step]);
         }
     }
 }

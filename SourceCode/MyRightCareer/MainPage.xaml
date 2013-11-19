@@ -21,8 +21,8 @@
 
         <local:TopBanner x:Name="topBanner" Grid.ColumnSpan="2"/>
         
-        <Grid x:Name="contentGrid" Grid.Row="1">
+        <TextBlock x:Name="contentBlock" Grid.Row="1">
             
-        </Grid>
+        </TextBlock>
     </Grid>
 </UserControl>

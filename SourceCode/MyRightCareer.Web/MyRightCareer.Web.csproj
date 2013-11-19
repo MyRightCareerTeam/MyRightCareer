@@ -58,7 +58,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ClientBin\content.xml" />
+    <Content Include="ClientBin\content.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="ClientBin\MyRightCareer.xap" />
     <Content Include="MyRightCareerTestPage.aspx" />
     <Content Include="MyRightCareerTestPage.html" />

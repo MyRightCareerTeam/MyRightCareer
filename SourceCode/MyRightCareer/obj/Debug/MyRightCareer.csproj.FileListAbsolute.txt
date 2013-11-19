@@ -53,7 +53,6 @@ C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode
 C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ru\System.Xml.XPath.resources.dll
 C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\zh-Hans\System.Xml.XPath.resources.dll
 C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\zh-Hant\System.Xml.XPath.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.csprojResolveAssemblyReference.cache
 C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\App.g.cs
 C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\HelpPanel.g.cs
 C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MainPage.g.cs
@@ -62,3 +61,4 @@ C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode
 C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.dll
 C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.pdb
 C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\XapCacheFile.xml
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.csprojResolveAssemblyReference.cache
