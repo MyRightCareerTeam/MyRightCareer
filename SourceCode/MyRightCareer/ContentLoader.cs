@@ -22,7 +22,9 @@ namespace MyRightCareer
 
             exercise,
 
-            step
+            step,
+
+            image
         }
 
         public ContentLoader(MainPage mainPage)
@@ -76,14 +78,14 @@ namespace MyRightCareer
                             string stepName = reader.GetAttribute(0);
                             menuButtons[currentExercise].Add(currentStep.ToString(), stepName);
                         }
-                        else if (reader.Name.Equals("test"))
+                        else if (reader.Name.Equals(Nodes.image.ToString()))
                         {
-                            this.mainPage.SetPageContents(currentExercise, currentStep, reader.GetAttribute(0));
+                            this.mainPage.SetPageContents_Image(currentExercise, currentStep, reader.GetAttribute(0));
                         }
 
                         break;
                     case XmlNodeType.Text:
-                        this.mainPage.SetPageContents(currentExercise, currentStep, reader.Value);
+                        this.mainPage.SetPageContents_Text(currentExercise, currentStep, reader.Value);
 
                         break;
                     case XmlNodeType.EndElement:

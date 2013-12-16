@@ -14,9 +14,12 @@ namespace MyRightCareer
 {
     public partial class MainPage : UserControl
     {
+        private const string BOLD_CHAR = "**";
+        private const string ITALICIZED_CHAR = "##";
+        private const string UNDERLINED_CHAR = "__";
+        
         private ContentLoader loader;
-        private string[,] content = new string[10,10];
-        private List<List<List<UIElement>>> c = new List<List<List<UIElement>>>();
+        private List<List<List<UIElement>>> content = new List<List<List<UIElement>>>();
 
         public MainPage()
         {
@@ -33,84 +36,97 @@ namespace MyRightCareer
             this.topBanner.SetMenuButtons(menuButtons);
         }
 
-        public void SetPageContents(int exercise, int step, string content)
+        public void SetPageContents_Text(int exercise, int step, string content)
         {
-            //this.content[exercise, step] = content;
-            /*if (c[exercise] == null)
-            {
-                c[exercise] = new List<List<object>>();
-            }
+            this.CheckContentSize(exercise, step);
 
-            if (c[exercise][step] == null)
-            {
-                c[exercise][step] = new List<object>();
-            }*/
-            if (c.Count <= exercise)
-            {
-                c.Add(new List<List<UIElement>>());
-            }
+            TextBlock t = this.ParseText(content);
 
-            if (c[exercise].Count <= step)
-            {
-                c[exercise].Add(new List<UIElement>());
-            }
+            this.content[exercise][step].Add(t);
+        }
 
-            TextBlock t = new TextBlock();
-            t.Text = content;
-            c[exercise][step].Add(t);
+        public void SetPageContents_Image(int exercise, int step, string source)
+        {
+            this.CheckContentSize(exercise, step);
+
+            Image i = new Image();
+            
+            i.Source = new System.Windows.Media.Imaging.BitmapImage(new Uri("/images/" + source, UriKind.Relative));
+            i.Stretch = Stretch.None;
+
+            this.content[exercise][step].Add(i);
         }
 
         public void LoadPageContents(int exercise, int step)
         {
             this.contentPanel.Children.Clear();
-            foreach(UIElement o in this.c[exercise][step])
+
+            foreach(UIElement o in this.content[exercise][step])
             {
-                //TextBlock t = new TextBlock();
-                //t.Text = "Element";
                 this.contentPanel.Children.Add(o);
             }
-            
-            /*string text = this.content[exercise, step];
-            string[] boldText = text.Split(new string[] {"**"},StringSplitOptions.None);
+            // create a new image
+            Image image = new Image();
+            image.Source = new System.Windows.Media.Imaging.BitmapImage(new Uri("/Koala.jpg", UriKind.Relative));
+            this.contentPanel.Children.Add(image);
+        }
 
-            this.contentBlock.Inlines.Clear();
+        private void CheckContentSize(int exercise, int step)
+        {
+            if (this.content.Count <= exercise)
+            {
+                this.content.Add(new List<List<UIElement>>());
+            }
+
+            if (this.content[exercise].Count <= step)
+            {
+                this.content[exercise].Add(new List<UIElement>());
+            }
+        }
+
+        private TextBlock ParseText(string text)
+        {
+            TextBlock block = new TextBlock();
+
+            string[] boldText = text.Split(new string[] { BOLD_CHAR }, StringSplitOptions.None);
 
             for (int i = 0; i < boldText.Length; i++)
             {
                 if (i % 2 == 0)
                 {
-                    string[] italicizedText = boldText[i].Split(new string[] { "#" }, StringSplitOptions.None);
+                    string[] italicizedText = boldText[i].Split(new string[] { ITALICIZED_CHAR }, StringSplitOptions.None);
 
                     for (int j = 0; j < italicizedText.Length; j++)
                     {
                         if (j % 2 == 0)
                         {
-                            string[] underlinedText = italicizedText[j].Split(new string[] { "__" }, StringSplitOptions.None);
+                            string[] underlinedText = italicizedText[j].Split(new string[] { UNDERLINED_CHAR }, StringSplitOptions.None);
 
                             for (int k = 0; k < underlinedText.Length; k++)
                             {
                                 if (k % 2 == 0)
                                 {
-                                    this.contentBlock.Inlines.Add(new Run() { Text = underlinedText[k]});
+                                    block.Inlines.Add(new Run() { Text = underlinedText[k] });
                                 }
                                 else
                                 {
-                                    this.contentBlock.Inlines.Add(new Run() { Text = underlinedText[k], TextDecorations = TextDecorations.Underline});
+                                    block.Inlines.Add(new Run() { Text = underlinedText[k], TextDecorations = TextDecorations.Underline });
                                 }
                             }
                         }
                         else
                         {
-                            this.contentBlock.Inlines.Add(new Run() { Text = italicizedText[j], FontStyle = FontStyles.Italic });
+                            block.Inlines.Add(new Run() { Text = italicizedText[j], FontStyle = FontStyles.Italic });
                         }
                     }
                 }
                 else
                 {
-                    this.contentBlock.Inlines.Add(new Run() { Text = boldText[i], FontWeight = FontWeights.Bold });
-                } 
+                    block.Inlines.Add(new Run() { Text = boldText[i], FontWeight = FontWeights.Bold });
+                }
             }
- //           this.contentBlock.Text = text;*/
+
+            return block;
         }
     }
 }
