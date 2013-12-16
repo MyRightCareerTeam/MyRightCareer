@@ -22,8 +22,11 @@
 
         <local:TopBanner x:Name="topBanner" Grid.ColumnSpan="2"/>
         
-        <TextBlock x:Name="contentBlock" Grid.Row="2">
+        <TextBlock Name="contentBlock" Grid.Row="2">
             
         </TextBlock>
+        <StackPanel Name="contentPanel" Grid.Row="2">
+            
+        </StackPanel>
     </Grid>
 </UserControl>

@@ -16,6 +16,7 @@ namespace MyRightCareer
     {
         private ContentLoader loader;
         private string[,] content = new string[10,10];
+        private List<List<List<UIElement>>> c = new List<List<List<UIElement>>>();
 
         public MainPage()
         {
@@ -34,12 +35,42 @@ namespace MyRightCareer
 
         public void SetPageContents(int exercise, int step, string content)
         {
-            this.content[exercise, step] = content;
+            //this.content[exercise, step] = content;
+            /*if (c[exercise] == null)
+            {
+                c[exercise] = new List<List<object>>();
+            }
+
+            if (c[exercise][step] == null)
+            {
+                c[exercise][step] = new List<object>();
+            }*/
+            if (c.Count <= exercise)
+            {
+                c.Add(new List<List<UIElement>>());
+            }
+
+            if (c[exercise].Count <= step)
+            {
+                c[exercise].Add(new List<UIElement>());
+            }
+
+            TextBlock t = new TextBlock();
+            t.Text = content;
+            c[exercise][step].Add(t);
         }
 
         public void LoadPageContents(int exercise, int step)
         {
-            string text = this.content[exercise, step];
+            this.contentPanel.Children.Clear();
+            foreach(UIElement o in this.c[exercise][step])
+            {
+                //TextBlock t = new TextBlock();
+                //t.Text = "Element";
+                this.contentPanel.Children.Add(o);
+            }
+            
+            /*string text = this.content[exercise, step];
             string[] boldText = text.Split(new string[] {"**"},StringSplitOptions.None);
 
             this.contentBlock.Inlines.Clear();
@@ -79,7 +110,7 @@ namespace MyRightCareer
                     this.contentBlock.Inlines.Add(new Run() { Text = boldText[i], FontWeight = FontWeights.Bold });
                 } 
             }
- //           this.contentBlock.Text = text;
+ //           this.contentBlock.Text = text;*/
         }
     }
 }

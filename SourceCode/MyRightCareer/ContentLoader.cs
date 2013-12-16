@@ -76,6 +76,10 @@ namespace MyRightCareer
                             string stepName = reader.GetAttribute(0);
                             menuButtons[currentExercise].Add(currentStep.ToString(), stepName);
                         }
+                        else if (reader.Name.Equals("test"))
+                        {
+                            this.mainPage.SetPageContents(currentExercise, currentStep, reader.GetAttribute(0));
+                        }
 
                         break;
                     case XmlNodeType.Text:
