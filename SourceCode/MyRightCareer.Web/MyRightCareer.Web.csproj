@@ -61,6 +61,7 @@
     <Content Include="ClientBin\content.xml">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="ClientBin\images\overviewVenn.jpg" />
     <Content Include="ClientBin\MyRightCareer.xap" />
     <Content Include="MyRightCareerTestPage.aspx" />
     <Content Include="MyRightCareerTestPage.html" />
