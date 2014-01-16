@@ -63,6 +63,8 @@
     </Content>
     <Content Include="ClientBin\images\overviewVenn.jpg" />
     <Content Include="ClientBin\MyRightCareer.xap" />
+    <Content Include="ClientBin\videos\MyRC-1-RightCareerConcepts.wmv" />
+    <Content Include="ClientBin\videos\VideoPlayer.xap" />
     <Content Include="MyRightCareerTestPage.aspx" />
     <Content Include="MyRightCareerTestPage.html" />
     <Content Include="Silverlight.js" />
