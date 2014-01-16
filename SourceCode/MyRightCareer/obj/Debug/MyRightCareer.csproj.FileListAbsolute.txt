@@ -26,42 +26,6 @@ C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\
 C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.dll
 C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.pdb
 C:\Users\sheltotj\Documents\Visual Studio 2012\Projects\MyRightCareerRepository\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\XapCacheFile.xml
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareer.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareer.pdb
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\AppManifest.xaml
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareer.xap
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareerTestPage.html
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\System.Xml.Linq.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\System.Xml.XPath.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\System.Xml.Linq.xml
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\System.Xml.XPath.xml
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\de\System.Xml.Linq.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\es\System.Xml.Linq.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\fr\System.Xml.Linq.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\it\System.Xml.Linq.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ja\System.Xml.Linq.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ko\System.Xml.Linq.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ru\System.Xml.Linq.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\de\System.Xml.XPath.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\es\System.Xml.XPath.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\fr\System.Xml.XPath.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\it\System.Xml.XPath.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ja\System.Xml.XPath.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ko\System.Xml.XPath.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ru\System.Xml.XPath.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\zh-Hans\System.Xml.XPath.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\zh-Hant\System.Xml.XPath.resources.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\App.g.cs
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\HelpPanel.g.cs
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MainPage.g.cs
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\TopBanner.g.cs
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.g.resources
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.pdb
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\XapCacheFile.xml
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.csprojResolveAssemblyReference.cache
 C:\Users\schuenjr.000\Documents\ROSE\CSSE_499\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareer.dll
 C:\Users\schuenjr.000\Documents\ROSE\CSSE_499\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareer.pdb
 C:\Users\schuenjr.000\Documents\ROSE\CSSE_499\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\AppManifest.xaml
@@ -98,3 +62,52 @@ C:\Users\schuenjr.000\Documents\ROSE\CSSE_499\MyRightCareer\SourceCode\MyRightCa
 C:\Users\schuenjr.000\Documents\ROSE\CSSE_499\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.dll
 C:\Users\schuenjr.000\Documents\ROSE\CSSE_499\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.pdb
 C:\Users\schuenjr.000\Documents\ROSE\CSSE_499\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\XapCacheFile.xml
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.csprojResolveAssemblyReference.cache
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\App.g.cs
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\Mobile\MobileMainPage.g.cs
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\Mobile\MobileHeader.g.cs
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\HelpPanel.g.cs
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MainPage.g.cs
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\TopBanner.g.cs
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.g.resources
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareer.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareer.pdb
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\AppManifest.xaml
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareer.xap
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\MyRightCareerTestPage.html
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\System.Xml.Linq.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\System.Xml.XPath.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\System.Xml.Linq.xml
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\System.Xml.XPath.xml
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ru\System.Xml.Linq.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\de\System.Xml.XPath.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\es\System.Xml.XPath.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\fr\System.Xml.XPath.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\it\System.Xml.XPath.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ja\System.Xml.XPath.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ko\System.Xml.XPath.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\ru\System.Xml.XPath.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\zh-Hans\System.Xml.XPath.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\Bin\Debug\zh-Hant\System.Xml.XPath.resources.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.dll
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.pdb
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\XapCacheFile.xml

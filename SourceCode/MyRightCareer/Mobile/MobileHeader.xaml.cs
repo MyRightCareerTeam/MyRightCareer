@@ -13,9 +13,9 @@ using System.Windows.Navigation;
 
 namespace MyRightCareer.Mobile
 {
-    public partial class Page2 : Page
+    public partial class MobileHeader : Page
     {
-        public Page2()
+        public MobileHeader()
         {
             InitializeComponent();
         }
