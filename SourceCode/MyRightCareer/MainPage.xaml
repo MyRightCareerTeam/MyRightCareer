@@ -18,12 +18,12 @@
             <ColumnDefinition Width="10*"/>
         </Grid.ColumnDefinitions>
 
-        <local:HelpPanel x:Name="helpPanel" Grid.Row="2" Grid.Column="1"/>
-
         <local:TopBanner x:Name="topBanner" Grid.ColumnSpan="2"/>
         
-        <StackPanel Name="contentPanel" Grid.Row="2">
-            
-        </StackPanel>
+        <ScrollViewer Grid.Row="2">
+            <StackPanel Name="contentPanel" Grid.Row="2"></StackPanel>
+        </ScrollViewer>
+        
+        <local:HelpPanel x:Name="helpPanel" Grid.Row="2" Grid.Column="1"/>
     </Grid>
 </UserControl>

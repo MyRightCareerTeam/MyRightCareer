@@ -57,6 +57,18 @@ namespace MyRightCareer
             this.content[exercise][step].Add(i);
         }
 
+        public void SetPageContents_Video(int exercise, int step, string source)
+        {
+            this.CheckContentSize(exercise, step);
+
+            MediaElement v = new MediaElement();
+            
+            v.Source = new Uri("/videos/" + source, UriKind.Relative);
+            v.Stretch = Stretch.None;
+            
+            this.content[exercise][step].Add(v);
+        }
+
         public void LoadPageContents(int exercise, int step)
         {
             this.contentPanel.Children.Clear();

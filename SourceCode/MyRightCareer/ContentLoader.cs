@@ -24,7 +24,9 @@ namespace MyRightCareer
 
             step,
 
-            image
+            image,
+
+            video
         }
 
         public ContentLoader(MainPage mainPage)
@@ -81,6 +83,10 @@ namespace MyRightCareer
                         else if (reader.Name.Equals(Nodes.image.ToString()))
                         {
                             this.mainPage.SetPageContents_Image(currentExercise, currentStep, reader.GetAttribute(0));
+                        }
+                        else if (reader.Name.Equals(Nodes.video.ToString()))
+                        {
+                            this.mainPage.SetPageContents_Video(currentExercise, currentStep, reader.GetAttribute(0));
                         }
 
                         break;
