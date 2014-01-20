@@ -8,6 +8,7 @@
   </Deployment.InBrowserSettings>
   <Deployment.Parts>
     <AssemblyPart x:Name="MyRightCareer" Source="MyRightCareer.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Navigation" Source="System.Windows.Controls.Navigation.dll" />
     <AssemblyPart x:Name="System.Xml.Linq" Source="System.Xml.Linq.dll" />
     <AssemblyPart x:Name="System.Xml.XPath" Source="System.Xml.XPath.dll" />
   </Deployment.Parts>
