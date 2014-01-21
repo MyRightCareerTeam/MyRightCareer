@@ -111,3 +111,4 @@ C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode
 C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.dll
 C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\MyRightCareer.pdb
 C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\XapCacheFile.xml
+C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer\obj\Debug\VideoPlayer.g.cs
