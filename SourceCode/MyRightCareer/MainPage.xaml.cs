@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Windows;
+using System.Windows.Browser;
 using System.Windows.Controls;
 using System.Windows.Documents;
 using System.Windows.Input;
@@ -65,8 +66,22 @@ namespace MyRightCareer
             
             v.Source = new Uri("/videos/" + source, UriKind.Relative);
             v.Stretch = Stretch.None;
-            
-            this.content[exercise][step].Add(v);
+
+            VideoPlayer p = new VideoPlayer(new Uri("/videos/" + source, UriKind.Relative));
+
+            this.content[exercise][step].Add(p);
+            /*
+            HtmlElement frame = HtmlPage.Document.CreateElement("IFrame");
+            frame.Id = "myIFrame";
+            frame.SetAttribute("frameBorder", "0");
+            frame.SetStyleAttribute("position", "absolute");
+            frame.SetStyleAttribute("left", 0 + "px");
+            frame.SetStyleAttribute("top", 0 + "px");
+            frame.SetStyleAttribute("width", 50 + "%");
+            frame.SetStyleAttribute("height", 50 + "%");
+
+            frame.SetAttribute("src", "http://www.rose-hulman.edu");  // Set src
+            HtmlPage.Document.Body.AppendChild(frame);*/
         }
 
         public void LoadPageContents(int exercise, int step)
