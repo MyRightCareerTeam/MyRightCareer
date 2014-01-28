@@ -20,17 +20,17 @@
 
         <local:TopBanner x:Name="topBanner" Grid.ColumnSpan="2"/>
         
-        <Grid Grid.Row="2">
+        <Grid Grid.Row="2" Name="contentGrid">
             <Grid.RowDefinitions>
                 <RowDefinition Height="*" />
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
-            
+            <Border Name="topContentBorder" BorderBrush="LightGray" BorderThickness="0,0,0,10">
             <ScrollViewer>
-                <StackPanel Name="contentPanel" Grid.Row="2"></StackPanel>
+                <StackPanel Name="contentPanel"></StackPanel>
             </ScrollViewer>
+            </Border>
         </Grid>
-        
         
         <local:HelpPanel x:Name="helpPanel" Grid.Row="2" Grid.Column="1"/>
     </Grid>

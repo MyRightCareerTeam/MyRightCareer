@@ -80,7 +80,6 @@
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="ContentLoader.cs" />
-    <Compile Include="ContentParser.cs" />
     <Compile Include="HelpPanel.xaml.cs">
       <DependentUpon>HelpPanel.xaml</DependentUpon>
     </Compile>
