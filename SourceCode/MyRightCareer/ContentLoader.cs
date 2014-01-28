@@ -20,9 +20,9 @@ namespace MyRightCareer
         {
             content,
 
-            exercise,
+            assignment,
 
-            step,
+            exercise,
 
             image,
 
@@ -56,48 +56,48 @@ namespace MyRightCareer
         {
             List<Dictionary<string, string>> menuButtons = new List<Dictionary<string,string>>();
             XmlReader reader = XmlReader.Create(new StringReader(xmlString));
+            int currentAssignment = -1;
             int currentExercise = -1;
-            int currentStep = -1;
 
             while (reader.Read())
             {
                 switch (reader.NodeType)
                 {
                     case XmlNodeType.Element:
-                        if (reader.Name.Equals(Nodes.exercise.ToString()))
+                        if (reader.Name.Equals(Nodes.assignment.ToString()))
                         {
-                            currentExercise++;
+                            currentAssignment++;
 
                             menuButtons.Add(new Dictionary<string, string>());
 
-                            string exerciseName = reader.GetAttribute(0);
-                            menuButtons[currentExercise].Add(Title, exerciseName);
+                            string assignmentName = reader.GetAttribute(0);
+                            menuButtons[currentAssignment].Add(Title, assignmentName);
                         }
-                        else if (reader.Name.Equals(Nodes.step.ToString()))
+                        else if (reader.Name.Equals(Nodes.exercise.ToString()))
                         {
-                            currentStep++;
+                            currentExercise++;
 
-                            string stepName = reader.GetAttribute(0);
-                            menuButtons[currentExercise].Add(currentStep.ToString(), stepName);
+                            string exerciseName = reader.GetAttribute(0);
+                            menuButtons[currentAssignment].Add(currentExercise.ToString(), exerciseName);
                         }
                         else if (reader.Name.Equals(Nodes.image.ToString()))
                         {
-                            this.mainPage.SetPageContents_Image(currentExercise, currentStep, reader.GetAttribute(0));
+                            this.mainPage.SetPageContents_Image(currentAssignment, currentExercise, reader.GetAttribute(0));
                         }
                         else if (reader.Name.Equals(Nodes.video.ToString()))
                         {
-                            this.mainPage.SetPageContents_Video(currentExercise, currentStep, reader.GetAttribute(0));
+                            this.mainPage.SetPageContents_Video(currentAssignment, currentExercise, reader.GetAttribute(0));
                         }
 
                         break;
                     case XmlNodeType.Text:
-                        this.mainPage.SetPageContents_Text(currentExercise, currentStep, reader.Value);
+                        this.mainPage.SetPageContents_Text(currentAssignment, currentExercise, reader.Value);
 
                         break;
                     case XmlNodeType.EndElement:
-                        if (reader.Name.Equals(Nodes.exercise.ToString()))
+                        if (reader.Name.Equals(Nodes.assignment.ToString()))
                         {
-                            currentStep = -1;
+                            currentExercise = -1;
                         }
                         else if (reader.Name.Equals(Nodes.content.ToString()))
                         {

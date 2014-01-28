@@ -26,14 +26,18 @@
                 <RowDefinition Height="*" />
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
-            
+            <Border Name="topContentBorder" BorderBrush="LightGray" BorderThickness="0,0,0,10">
             <ScrollViewer>
-                <StackPanel Name="contentPanel" Grid.Row="2"></StackPanel>
+                <StackPanel Name="contentPanel"></StackPanel>
             </ScrollViewer>
+            </Border>
         </Grid>
         
+<<<<<<< HEAD
         
         
+=======
+>>>>>>> 18949fca3f4ce85c9ac14933bf380f010326395f
         <local:HelpPanel x:Name="helpPanel" Grid.Row="2" Grid.Column="1"/>
     </Grid>
 </UserControl>
