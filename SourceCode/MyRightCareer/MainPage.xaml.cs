@@ -10,6 +10,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Shapes;
+using SilverlightTextEditor;
 
 namespace MyRightCareer
 {
@@ -27,6 +28,10 @@ namespace MyRightCareer
             InitializeComponent();
 
             this.topBanner.SetMainPage(this);
+
+ /*           SilverlightTextEditor.MainPage mp = new SilverlightTextEditor.MainPage();
+            this.contentGrid.Children.Add(mp);
+            Grid.SetRow(mp, 1);*/
             
             this.loader = new ContentLoader(this);
             this.loader.GetContent();

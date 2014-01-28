@@ -147,6 +147,15 @@
   <ItemGroup>
     <Resource Include="images\myrightcareer_logo.png" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SilverlightTextEditor\SilverlightTextEditor\SilverlightTextEditor.csproj">
+      <Project>{52f76969-e7cd-414f-8e98-4ff90ee48b05}</Project>
+      <Name>SilverlightTextEditor</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

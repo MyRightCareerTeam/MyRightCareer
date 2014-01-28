@@ -4,6 +4,7 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:local="clr-namespace:MyRightCareer"
+    xmlns:texteditor="clr_namespace:SilverlightTextEditor;assembly=SilverlightTextEditor"
     mc:Ignorable="d"
     d:DesignHeight="300" d:DesignWidth="400">
 
@@ -20,7 +21,7 @@
 
         <local:TopBanner x:Name="topBanner" Grid.ColumnSpan="2"/>
         
-        <Grid Grid.Row="2">
+        <Grid Name="contentGrid" Grid.Row="2">
             <Grid.RowDefinitions>
                 <RowDefinition Height="*" />
                 <RowDefinition Height="*" />
@@ -30,6 +31,7 @@
                 <StackPanel Name="contentPanel" Grid.Row="2"></StackPanel>
             </ScrollViewer>
         </Grid>
+        
         
         
         <local:HelpPanel x:Name="helpPanel" Grid.Row="2" Grid.Column="1"/>
