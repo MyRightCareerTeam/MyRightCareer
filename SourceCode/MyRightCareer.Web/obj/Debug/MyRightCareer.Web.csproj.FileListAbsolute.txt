@@ -18,3 +18,8 @@ C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode
 C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer.Web\obj\Debug\MyRightCareer.Web.csprojResolveAssemblyReference.cache
 C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer.Web\obj\Debug\MyRightCareer.Web.dll
 C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareer.Web\obj\Debug\MyRightCareer.Web.pdb
+C:\Users\spurrme\Documents\Senior_Design\MyRightCareer\SourceCode\MyRightCareer.Web\bin\MyRightCareer.Web.dll
+C:\Users\spurrme\Documents\Senior_Design\MyRightCareer\SourceCode\MyRightCareer.Web\bin\MyRightCareer.Web.pdb
+C:\Users\spurrme\Documents\Senior_Design\MyRightCareer\SourceCode\MyRightCareer.Web\obj\Debug\MyRightCareer.Web.csprojResolveAssemblyReference.cache
+C:\Users\spurrme\Documents\Senior_Design\MyRightCareer\SourceCode\MyRightCareer.Web\obj\Debug\MyRightCareer.Web.dll
+C:\Users\spurrme\Documents\Senior_Design\MyRightCareer\SourceCode\MyRightCareer.Web\obj\Debug\MyRightCareer.Web.pdb
