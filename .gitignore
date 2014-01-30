@@ -1,7 +1,8 @@
 *.suo
-bin/
-obj/
-Bin/
-Debug/
+**/bin/Debug/
+**/bin/Release/
+**/obj/
+**/Bin/
+**/Debug/
 *.cache
 *.xap
