@@ -1,5 +1,0 @@
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareerContent\Bin\Debug\MyRightCareerContent.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareerContent\Bin\Debug\MyRightCareerContent.pdb
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareerContent\obj\Debug\MyRightCareerContent.csprojResolveAssemblyReference.cache
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareerContent\obj\Debug\MyRightCareerContent.dll
-C:\Users\sheltotj\Documents\Courses\CSSE\Senior Project\MyRightCareer\SourceCode\MyRightCareerContent\obj\Debug\MyRightCareerContent.pdb
