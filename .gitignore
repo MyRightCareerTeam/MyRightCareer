@@ -6,3 +6,5 @@
 **/Debug/
 *.cache
 *.xap
+/v2/MyRightCareer/nbproject/private/
+/v2/MyRightCareer/build/
